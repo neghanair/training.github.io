@@ -1,0 +1,20 @@
+.navbar-toggler {
+    float: left;
+    margin-left: 84rem;
+
+  }
+  body{
+      background-image: url("pic1.jpg");
+      background-size: cover;
+  }
+  li{
+    list-style: none;
+  }
+  @media (max-width: 980px){
+    .head{
+      font-size: 75px !important;
+    }
+    .fixed-top{
+      font-size: 36px !important;
+    }
+  }
